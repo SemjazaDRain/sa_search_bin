@@ -5,6 +5,7 @@
 
 📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaDRain/sa_search_bin/releases/tag/v2025.07.17.00.b-pre)
 
+このリポジトリは、Sound-Alike Search の **実行バイナリ配布専用** です。  
 ---
 
 ## 🔍 概要
