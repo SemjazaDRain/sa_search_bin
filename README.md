@@ -1,5 +1,4 @@
 # 類音検索ツール（Sound-Alike Search）
-**Version:** 2025.07.17.00  
 **Author:** Semjaza D Rain (しぇみはざ)
 
 ---
@@ -18,3 +17,11 @@
 
 本ツールは、UniDic形式の形態素辞書に基づき、単語の母音系列を抽出・検索するGUIアプリケーションです。  
 韻を踏んだ言葉遊びに関心のあるユーザー向けに設計されています。
+
+## 🔧 使用ライブラリについて
+
+本アプリケーションは以下のオープンソースライブラリを利用しています：
+
+- [DearPyGUI](https://github.com/hoffstadt/DearPyGui)（MIT License）
+
+ライブラリの詳細なライセンス情報は、配布物に同梱の `license/` フォルダおよび `LICENSES.md` をご参照ください。
