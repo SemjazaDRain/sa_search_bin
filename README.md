@@ -3,6 +3,8 @@
 **Author:** Semjaza D Rain (しぇみはざ)  
 **GitHub:** https://github.com/SemjazaDRain/sa_search_bin
 
+📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaDRain/sa_search_bin/releases/tag/v2025.07.17.00.b-pre)
+
 ---
 
 ## 🔍 概要
