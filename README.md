@@ -3,7 +3,7 @@
 **Author:** Semjaza D Rain (しぇみはざ)  
 **GitHub:** https://github.com/SemjazaDRain/sa_search_bin
 
-📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaDRain/sa_search_bin/releases/tag/v2025.07.17.00.b-pre)
+📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaDRain/sa_search_bin/releases/tag/v2025.07.17.12.b-pre)
 
 このリポジトリは、Sound-Alike Search の **実行バイナリ配布専用** です。  
 ソースについては **実装があまりに汚いので別途調整中** です。
@@ -46,6 +46,7 @@ UniDic形式の形態素辞書を活用し、音韻パターンによる検索�
 
 - Python 3.10.6
 - PyInstaller 6.14.2
+- DearPyGUI 2.1.0
 - ビルドOS：Windows 11 Pro
 
 > ※ PyInstaller は GPL v2 またはそれ以降のライセンスで提供されています。  
