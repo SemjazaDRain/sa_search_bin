@@ -3,7 +3,7 @@
 **Author:** Semjaza D Rain (しぇみはざ)  
 **GitHub:** https://github.com/SemjazaDRain/sa_search_bin
 
-📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaDRain/sa_search_bin/releases/tag/v2025.07.17.22.b-pre)
+📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaDRain/sa_search_bin/releases/tag/v2025.07.19.19.b-pre)
 
 このリポジトリは、Sound-Alike Search の **実行バイナリ配布専用** です。  
 ソースについては **実装があまりに汚いので別途調整中** です。
@@ -66,7 +66,7 @@ UniDic配布の辞書を活用し、音韻パターンによる検索が可能�
 - アイコン・画像素材：作者による独自ライセンス（`LICENSES.md` 参照）
 
 > **注意**：本アプリケーションに含まれる実行バイナリは MIT ライセンス下で提供されますが、  
-> `sa_search_gui.exe` に含まれる独自アイコンや画像素材については再配布・改変が禁止されています。
+> アーカイブおよびモジュールに埋め込まれた独自アイコンや画像素材については単独での再配布・改変・商用利用・販売が禁止されています。
 
 ---
 
@@ -77,3 +77,13 @@ UniDic配布の辞書を活用し、音韻パターンによる検索が可能�
 - X（旧Twitter）： [@Shemi_haza](https://x.com/Shemi_haza)
 
 ---
+
+## 更新履歴
+
+- 2025.07.19.19.b
+> "？"検索(特定しない1文字)対応<br>
+> 検索結果のソート修正<br>
+> アイコン変更<br>
+
+- 2025.07.17.19.b
+> 初回プレリリース<br>
