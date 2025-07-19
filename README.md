@@ -3,7 +3,7 @@
 **Author:** Semjaza D Rain (しぇみはざ)  
 **GitHub:** https://github.com/SemjazaDRain/sa_search_bin
 
-📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaDRain/sa_search_bin/releases/tag/v2025.07.19.19.b-pre)
+📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaDRain/sa_search_bin/releases/tag/v2025.07.20.00.b-pre)
 
 このリポジトリは、Sound-Alike Search の **実行バイナリ配布専用** です。  
 ソースについては **実装があまりに汚いので別途調整中** です。
