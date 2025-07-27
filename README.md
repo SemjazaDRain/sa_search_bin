@@ -30,6 +30,13 @@ UniDic配布の辞書を活用し、音韻パターンによる検索が可能�
 
 ---
 
+## 🛠 次の予定
+
+- [CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)の英語-ARPABET辞書の類音検索搭載
+
+---
+
+
 ## 📥 セットアップ方法
 
 アーカイブ内に含まれる `README.md` をご覧ください。  
